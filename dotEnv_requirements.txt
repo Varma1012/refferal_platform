@@ -1,0 +1,4 @@
+PORT=your port
+EMAIL_USER='email id to send emails'
+EMAIL_PASS='api password'
+SECRET_KEY='generate and keep here a random jwt secret key for secure usage'
